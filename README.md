@@ -1,3 +1,3 @@
 # haroldfeinstein-writing
 
-project about harold feinstein from art class
+project about harold feinstein from art class.
