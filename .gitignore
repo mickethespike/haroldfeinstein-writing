@@ -1,0 +1,4 @@
+*.sync*
+*.pdf
+*.aux
+*.log
