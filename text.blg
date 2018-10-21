@@ -1,14 +1,14 @@
 [0] Config.pm:302> INFO - This is Biber 2.11
 [0] Config.pm:305> INFO - Logfile is 'text.blg'
-[32] biber:313> INFO - === Sat Oct  6, 2018, 16:18:11
-[58] Biber.pm:371> INFO - Reading 'text.bcf'
-[130] Biber.pm:857> INFO - Found 2 citekeys in bib section 0
-[145] Biber.pm:3976> INFO - Processing section 0
-[156] Biber.pm:4136> INFO - Looking for bibtex format file 'kallor.bib' for section 0
-[157] bibtex.pm:1500> INFO - LaTeX decoding ...
-[160] bibtex.pm:1316> INFO - Found BibTeX data source 'kallor.bib'
-[179] UCollate.pm:68> INFO - Overriding locale 'sv-SE' defaults 'variable = shifted' with 'variable = non-ignorable'
-[179] UCollate.pm:68> INFO - Overriding locale 'sv-SE' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[179] Biber.pm:3804> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'sv-SE'
-[185] bbl.pm:617> INFO - Writing 'text.bbl' with encoding 'UTF-8'
-[186] bbl.pm:720> INFO - Output to text.bbl
+[24] biber:313> INFO - === Sun Oct 21, 2018, 18:38:39
+[49] Biber.pm:371> INFO - Reading 'text.bcf'
+[115] Biber.pm:857> INFO - Found 5 citekeys in bib section 0
+[129] Biber.pm:3976> INFO - Processing section 0
+[139] Biber.pm:4136> INFO - Looking for bibtex format file 'kallor.bib' for section 0
+[140] bibtex.pm:1500> INFO - LaTeX decoding ...
+[145] bibtex.pm:1316> INFO - Found BibTeX data source 'kallor.bib'
+[184] UCollate.pm:68> INFO - Overriding locale 'sv-SE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[185] UCollate.pm:68> INFO - Overriding locale 'sv-SE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[185] Biber.pm:3804> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'sv-SE'
+[196] bbl.pm:617> INFO - Writing 'text.bbl' with encoding 'UTF-8'
+[198] bbl.pm:720> INFO - Output to text.bbl

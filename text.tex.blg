@@ -1,5 +1,5 @@
 [0] Config.pm:302> INFO - This is Biber 2.11
 [0] Config.pm:305> INFO - Logfile is 'text.tex.blg'
-[29] biber:313> INFO - === Sat Oct  6, 2018, 15:24:04
-[118] Utils.pm:209> ERROR - Cannot find control file 'text.tex.bcf'! - Did latex run successfully on your .tex file before you ran biber?
-[118] Biber.pm:114> INFO - ERRORS: 1
+[56] biber:313> INFO - === Sun Oct 21, 2018, 11:58:18
+[178] Utils.pm:209> ERROR - Cannot find control file 'text.tex.bcf'! - Did latex run successfully on your .tex file before you ran biber?
+[178] Biber.pm:114> INFO - ERRORS: 1
